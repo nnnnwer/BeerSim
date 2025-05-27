@@ -8,7 +8,8 @@
 </head>
 <body>
     
-    <h1>Hello laravel V11</h1>
+    <h1>Hello laravel V11 </h1>
+    <h2>My app v1</h2>
 
     <hr>
 
